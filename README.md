@@ -49,10 +49,10 @@ https://simpleicons.org/
 ### 🍽FRAMEWORK
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>&nbsp;
 
-### 🐔🕸Network
+### ✈Network
+<img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=OpenSSL&logoColor=white"/>&nbsp;
 
-
-### 🧙‍♂️AI
+### 🤖AI
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>&nbsp;
