@@ -27,6 +27,8 @@ https://simpleicons.org/
 
 ### 🔥LANGUAGE
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Shell Script-4EAA25?style=for-the-badge&logo=GNU Bash&logoColor=white"/>&nbsp;
+
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp;
