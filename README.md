@@ -65,3 +65,8 @@ https://simpleicons.org/
 <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>&nbsp;
+
+
+
+## Solved.ac Profile
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=B411032">
