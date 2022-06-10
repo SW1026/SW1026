@@ -78,9 +78,6 @@ https://simpleicons.org/
 ![모의해킹](https://user-images.githubusercontent.com/39516757/172896531-95f3e0ec-c43f-4492-97e0-8337ac13e332.PNG)
 #### 2) Coding 자료
 ![코딩](https://user-images.githubusercontent.com/39516757/172896565-c4b02fb3-b3f9-4ca8-b62b-788a51177d17.PNG)
-#### 3) 이전 회사 그 날 업무 정리
-![SGN](https://user-images.githubusercontent.com/39516757/172896592-31e7ca3b-843d-4255-ac08-e2fd07357ded.PNG)
-
 
 ### 2. Notion
 ![나의 노션](https://user-images.githubusercontent.com/39516757/172897353-bbfd33dd-6aa1-4d74-b1cb-27b6e8bd30c1.PNG)
