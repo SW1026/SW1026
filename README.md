@@ -53,6 +53,9 @@ https://simpleicons.org/
 
 ### ✈Network
 <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=OpenSSL&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Cisco Router-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=OpenVPN&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/>&nbsp;
 
 ### 🤖AI
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>&nbsp;
